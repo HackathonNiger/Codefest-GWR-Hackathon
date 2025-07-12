@@ -10,11 +10,11 @@ This GitHub is the **official submission hub** for all participants of the Codef
 
 ## 🧭 Navigate
 
-- 🔧 hackathon-info(https://github.com/codefest-gwr-hackathon/hackathon-info)
-- 🔧 Guidelines(https://github.com/codefest-gwr-hackathon/guidelines)
-- 🧑‍💻 Starter Projects(https://github.com/codefest-gwr-hackathon/starters-kits)
-- 📦 APIs & Resources(https://github.com/codefest-gwr-hackathon/resources)
-- ❓ submission(https://github.com/codefest-gwr-hackathon/submissions)
+- 🔧 hackathon-info(https://github.com/HackathonNiger/hackathon-info)
+- 🔧 Guidelines(https://github.com/HackathonNiger/guidelines)
+- 🧑‍💻 Starter Projects(https://github.com/HackathonNiger/starters-kits)
+- 📦 APIs & Resources(https://github.com/HackathonNiger/resources)
+- ❓ submission(https://github.com/HackathonNiger/submissions)
 
 ## 📣 Announcements
 
