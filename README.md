@@ -10,14 +10,15 @@ This GitHub is the **official submission hub** for all participants of the Codef
 
 ## 🧭 Navigate
 
-- 🔧 [Submission Guidelines](https://github.com/codefest-gwr/guidelines)
-- 🧑‍💻 [Starter Projects](https://github.com/codefest-gwr/starter-kits)
-- 📦 [APIs & Resources](https://github.com/codefest-gwr/resources)
-- ❓ [FAQ](https://github.com/codefest-gwr/faq)
+- 🔧 hackathon-info(https://github.com/codefest-gwr-hackathon/hackathon-info)
+- 🔧 Guidelines(https://github.com/codefest-gwr-hackathon/guidelines)
+- 🧑‍💻 Starter Projects(https://github.com/codefest-gwr-hackathon/starters-kits)
+- 📦 APIs & Resources(https://github.com/codefest-gwr-hackathon/resources)
+- ❓ submission(https://github.com/codefest-gwr-hackathon/submissions)
 
 ## 📣 Announcements
 
-All key announcements, deadlines, and updates will be pinned here and on our official [website](https://codefestinternational.org) and [Discord](https://discord.gg/yourlink).
+All key announcements, deadlines, and updates will be pinned here and on our official [website](https://hackathon.codefestinternational.africa) and [whatsapp](https://discord.gg/yourlink).
 
 ---
 
